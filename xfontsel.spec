@@ -4,7 +4,7 @@
 #
 Name     : xfontsel
 Version  : 1.0.6
-Release  : 1
+Release  : 2
 URL      : https://www.x.org/releases/individual/app/xfontsel-1.0.6.tar.gz
 Source0  : https://www.x.org/releases/individual/app/xfontsel-1.0.6.tar.gz
 Summary  : No detailed summary available
